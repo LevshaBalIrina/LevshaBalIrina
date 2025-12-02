@@ -46,13 +46,4 @@ Minimalistic design, clean code, and user comfort — these are the principles I
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LevshaBalIrina&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevshaBalIrina&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-- ✉️ Email: *add your email*  
-- 💬 Telegram: *add your username*  

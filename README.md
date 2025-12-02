@@ -1,4 +1,4 @@
-# Hi! I'm Irina 👋  
+# Hi! I'm Irina 🤘  
 ### Frontend Developer
 
 ### 👩‍💻 About Me
